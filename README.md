@@ -3,7 +3,7 @@
         <h2>📸 Demo Screenshot</h2>
         <img src="https://github.com/user-attachments/assets/f309826a-97aa-49d1-97bb-28c44a85fea3" />
         <h2>🌐 Live Demo</h2>
-        <a href="https://your-live-demo-link.com" target="_blank" class="button">View Live Demo</a>
+        <a href="https://goldstring.github.io/Nexa-Agency-Website-Template/" target="_blank" class="button">View Live Demo</a>
         <h2>🎨 Features</h2>
         <ul>
             <li>✅ Fully responsive design</li>
