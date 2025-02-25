@@ -1,7 +1,7 @@
 <h1>🚀 Nexa Agency Website Template</h1>
         <p>A modern and responsive website template designed for agencies, creative studios, and freelancers.</p>
         <h2>📸 Demo Screenshot</h2>
-        ![welcome little one!](https://github.com/user-attachments/assets/f309826a-97aa-49d1-97bb-28c44a85fea3)
+        <img src="https://github.com/user-attachments/assets/f309826a-97aa-49d1-97bb-28c44a85fea3" />
 
         <h2>🌐 Live Demo</h2>
         <a href="https://your-live-demo-link.com" target="_blank" class="button">View Live Demo</a>
